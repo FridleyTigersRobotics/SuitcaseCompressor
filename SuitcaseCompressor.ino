@@ -4,7 +4,7 @@
 #define RSL 3
 #define COMPRESSOR 5 
 #define BATTADCPIN A0
-#define SHORTCYCLEDELAY 5000
+#define SHORTCYCLEDELAY 2000
 
 int lightstatus=1;
 bool lighton=false;
