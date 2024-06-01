@@ -48,7 +48,7 @@ void loop() {
   }
 
   if((millis()<lastdebouncetime) || (millis()<lastruntime)){
-    //rollowver of millis
+    //rollover of millis
     lastdebouncetime=0;
     lastruntime=0;
     lightstatus=4;
