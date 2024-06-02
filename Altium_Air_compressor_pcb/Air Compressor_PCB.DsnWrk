@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=CompressorPCB.PrjPCB
+[Project2]
+ProjectPath=Footprints\ul_1935161\AltiumDesigner\UL_Import_1935161.PrjScr
+[Project3]
+ProjectPath=Footprints\ul_1935161\AltiumDesigner\1935161.LibPkg
+[Project4]
+ProjectPath=Footprints\ArduinoMiniPro\Arduino.LibPkg
+[Project5]
+ProjectPath=Footprints\Launcher\Launcher Custom Footprints.LibPkg
